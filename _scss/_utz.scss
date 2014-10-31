@@ -6,7 +6,9 @@ body {
     background-color: white;
     margin-bottom: 0;
 }
-
+.masthead {
+    border: none;
+}
 .wrapper-footer {
     margin-top: 0;
     border: none;
@@ -23,7 +25,6 @@ body {
     -o-border-image: url(images/utz-border-image.svg) 32 64 39 64 stretch;
     border-image: url(images/utz-border-image.svg) 32 64 39 64 stretch;
 }
-
-#utz-border-image {
-    fill: $utzBlue;
+.posts {
+    margin-top: -2em; 
 }
