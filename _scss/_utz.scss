@@ -1,7 +1,12 @@
 body {
     background-color: $utzBlue;
 }
-
+nav {
+    display: none;
+}
+.site-avatar {
+    width: 120px;
+}
 .wrapper-masthead {
     width: 100%;
     background-color: white;
