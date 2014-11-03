@@ -16,9 +16,16 @@ I realized that what I essentially wanted was a custom border to the "main" sect
 This above is the actual border that you see around this text right now. It's an SVG which the browser is slicing up into a 3x3 grid. The CSS looks like this:
 
 ```
-border-image-source: url(http://fewf.github.io/images/utz-border-image.svg);
-border-image-slice: 32 64 39;
-border-image-width: initial;
-border-image-outset: initial;
-border-image-repeat: stretch;
+#main {
+	border-image-source: url(http://fewf.github.io/images/utz-border-image.svg);
+
+	border-image-slice: 32 64 39;
+
+	border-image-width: initial;
+
+	border-image-outset: initial;
+
+	border-image-repeat: stretch;
+	
+}
 ```
