@@ -18,14 +18,9 @@ This above is the actual border that you see around this text right now. It's an
 ```
 #main {
 	border-image-source: url(http://fewf.github.io/images/utz-border-image.svg);
-
 	border-image-slice: 32 64 39;
-
 	border-image-width: initial;
-
 	border-image-outset: initial;
-
 	border-image-repeat: stretch;
-	
 }
 ```
