@@ -18,15 +18,12 @@ Here is the actual border that you see around this text right now.
 It's an SVG which the browser is slicing up into a 3x3 grid. The CSS looks like this:
 
 ```
-
 #main {
-
     border-width: 4em 7em;
 	border-image-source: url(http://fewf.github.io/images/utz-border-image.svg);
 	border-image-slice: 32 64 39;
 	border-image-repeat: stretch;
 }
-
 ```
 
 You can read this like 
