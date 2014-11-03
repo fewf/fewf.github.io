@@ -28,9 +28,9 @@ It's an SVG which the browser is slicing up into a 3x3 grid. The CSS looks like 
 
 It gives the browser the image and says slice it thiswise:
 
-⋅⋅* One horizontal slice 32 pixels from the top.
-⋅⋅* One horizontal slice 39 pixels from the bottom.
-⋅⋅* Two vertical slices, one 64 pixels in from the right, the other 64 pixels in from the left.
+* One horizontal slice 32 pixels from the top.
+* One horizontal slice 39 pixels from the bottom.
+* Two vertical slices, one 64 pixels in from the right, the other 64 pixels in from the left.
 
 We now have our 3x3 grid. Let's use directions to refer to the gridded off chunks; we've got a North South East and West chunk, as well as NW, NE, SE and SW chunks. Lastly, the very center of this grid is the thing to be bordered (once again, the text you're reading now).
 
