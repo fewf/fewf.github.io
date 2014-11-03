@@ -11,16 +11,21 @@ The way that I achieved this effect in the old Wordpress was a bit of a hack. It
 
 I realized that what I essentially wanted was a custom border to the "main" section of the page (i.e., the one holding the text you're reading now). Enough queries Google eventually led me to find [the border-image property](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image). It's a tremendously powerful alternative to the typical border css you might know and love. I'll try my best to explain.
 
+Here is the actual border that you see around this text right now.
+
 ![the actual border you're looking at now](../images/utz-border-image.svg)
 
-This above is the actual border that you see around this text right now. It's an SVG which the browser is slicing up into a 3x3 grid. The CSS looks like this:
+It's an SVG which the browser is slicing up into a 3x3 grid. The CSS looks like this:
 
 ```
 #main {
+
+    border-width: 4em 7em;
 	border-image-source: url(http://fewf.github.io/images/utz-border-image.svg);
 	border-image-slice: 32 64 39;
-	border-image-width: initial;
-	border-image-outset: initial;
 	border-image-repeat: stretch;
+	
 }
 ```
+
+You can read this like 
