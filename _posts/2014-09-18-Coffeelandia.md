@@ -7,7 +7,7 @@ Coffee's been a pivotal component in my life, so it doesn't surprise me it's pla
 
 Today, I want to invite you all to the unincorporated borough of my kitchen I'll call Coffeelandia:
 
-[![my favorite corner](images/IMG_20140918_153604-225x300.jpg)](http://galtman.com/wp-content/uploads/2014/09/IMG_20140918_153604.jpg)
+[![my favorite corner](../images/IMG_20140918_153604-225x300.jpg)](http://galtman.com/wp-content/uploads/2014/09/IMG_20140918_153604.jpg)
 
 *   **a**: My trusty Solis Maestro grinder. I purchased it in 2005 _used, _and it has continued to crank out the hits for almost 10 years now. It's been already a long time that Solis sold the line to a company called Baratza. which sells a modified version of it as the Encore. All I can say is that the longevity should justify the price tag.
 *   **b**: Green (unroasted) coffee storage. At home I brew exclusively coffee I've roasted myself, generally within the last couple of days. It's a rewarding hobby that has truly hobbled me with an obsession over coffee freshness. It's a shame that even in some of NYC's more fanciful roasted coffee purveyors, you'll find beans stamped with roast dates over two weeks old, or even worse--_not dated_. The magic of green coffee is that it has a shelf-life of about one year. So I order 20-25 lbs from [www.sweetmarias.com](http://www.sweetmarias.com "Sweet Maria"), which takes me about half a year to burn through. Wash rinse repeat.
