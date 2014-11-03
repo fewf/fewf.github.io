@@ -15,7 +15,7 @@ What kept me buoyed was an unexpected, emergent and organic phenomenon: structur
 
 More exercise has been a goal alongside a more normal sleep schedule for a long time now, but I did not anticipate that endeavoring to achieve one would help with the other. Up until this experiment, I was on average working out once a week. Now I'm daily craving the vitality it gives. This convenient dovetailing has to do with a few things.
 
-[caption id="" align="alignleft" width="400"]![Went looking for workout memes, too many, so yes please Comics Sans.](http://memeshare.net/memes/2/1346.png) Went looking for workout memes, too many, so yes please Comics Sans.[/caption]
+![Went looking for workout memes, too many, so yes please Comics Sans.](http://memeshare.net/memes/2/1346.png)
 
 First, I'm mentally useless in the first couple of hours of the day, so I may as well focus on body over mind.  But more to the point, the time between when I wake up now and when I used to wake up still feels like "secret magical found time", that I can use for whatever purpose I see fit. Previously, I'd wake up and feel Late For Everything, even if I really didn't have anywhere to go or anything time-sensitive in my day. I would therefore feel the need to act productive ASAP, even if that just meant staring at my computer screen for 90 minutes. Last, I believe the exercise is helping me get tired at night, helping to perpetuate the whole she-bang.
 
