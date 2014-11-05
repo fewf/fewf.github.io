@@ -32,6 +32,10 @@ It gives the browser the image and says slice it thiswise:
 * One horizontal slice 39 pixels from the bottom.
 * Two vertical slices, one 64 pixels in from the right, the other 64 pixels in from the left.
 
+For a final project that would look thusly:
+
+![sliced and zoomed](../images/utz-border-image-sliced.svg)
+
 We now have our 3x3 grid. Let's use directions to refer to the gridded off chunks; we've got a N S E and W chunks, as well as NW, NE, SE and SW chunks. Lastly, the very center of this grid is the thing to be bordered (once again, the text you're reading now).
 
 Now, with this information, the browser knows to stretch what it finds in the East and West chunks as the bordered content grows in length, and likewise to use what's in North and South to stretch for the horizontal content. (If `border-image-repeat` is set to `repeat`, it will repeat instead of stretch. For this usage, the effect is identical.) The imagery inside the NW, NE, SE and SW chunks will sit unaffected by the length or width of the content at the corners of the borders.
