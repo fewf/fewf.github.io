@@ -1,0 +1,12 @@
+<svg width="110" height="100" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>fewf icon</title>
+
+<!-- F -->
+<g transform="translate(5,5)">
+  <path fill="#6298e2" d="M 0 0 h 100 v 22 h -58 v 18 h 58 v 17h -58 v 43 h -42 Z"/>
+
+  <path fill="none" stroke-linecap="butt" stroke-linejoin="round" stroke="black" stroke-width="10" d="M 100 57 V 40 M 100 22 V 0 H 0 V 100 H 42"/>
+</g>
+
+</svg>
