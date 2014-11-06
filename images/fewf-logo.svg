@@ -2,31 +2,31 @@
  <g>
   <title>fewf logo</title>
 
-<!-- F -->
-<g transform="translate(5,5)">
-  <path fill="#6298e2" d="M 0 0 h 100 v 22 h -58 v 18 h 58 v 17h -58 v 43 h -42 Z"/>
+	<!-- F -->
+	<g transform="translate(5,5)">
+	  <path fill="#6298e2" d="M 0 0 h 100 v 22 h -58 v 18 h 58 v 17h -58 v 43 h -42 Z"/>
 
-  <path fill="none" stroke-linecap="butt" stroke-linejoin="round" stroke="black" stroke-width="10" d="M 100 57 V 40 M 100 22 V 0 H 0 V 100 H 42"/>
-</g>
-<!-- E -->
-<g transform="translate(130, 5)">
-  <path fill="#6298e2"  d="m 0 0 h 100 v 22 h -58 v 18 h 58 v 17h -58 v 19 h 58 v 24 h -100 z"/>
+	  <path fill="none" stroke-linecap="butt" stroke-linejoin="round" stroke="black" stroke-width="10" d="M 100 57 V 40 M 100 22 V 0 H 0 V 100 H 42"/>
+	</g>
+	<!-- E -->
+	<g transform="translate(130, 5)">
+	  <path fill="#6298e2"  d="m 0 0 h 100 v 22 h -58 v 18 h 58 v 17h -58 v 19 h 58 v 24 h -100 z"/>
 
-  <path fill="none" stroke-linecap="butt" stroke-linejoin="round" stroke="black" stroke-width="10" d="M 100 57 V 40 M 100 22 V 0 H 0 V 100 H 100 V 76"/>
-</g>
-<!-- W -->
-<g transform="translate(150 130) rotate(-90 50 50)">
-  <path fill="#6298e2"  d="m 0 0 h 100 v 22 h -58 v 18 h 58 v 17h -58 v 19 h 58 v 24 h -100 z"/>
+	  <path fill="none" stroke-linecap="butt" stroke-linejoin="round" stroke="black" stroke-width="10" d="M 100 57 V 40 M 100 22 V 0 H 0 V 100 H 100 V 76"/>
+	</g>
+	<!-- W -->
+	<g transform="translate(150 130) rotate(-90 50 50)">
+	  <path fill="#6298e2"  d="m 0 0 h 100 v 22 h -58 v 18 h 58 v 17h -58 v 19 h 58 v 24 h -100 z"/>
 
-  <path fill="none" stroke-linecap="butt" stroke-linejoin="round" stroke="black" stroke-width="10" d="M 100 57 V 40 M 100 22 V 0 H 0 V 100 H 100 V 76"/>
-</g>
+	  <path fill="none" stroke-linecap="butt" stroke-linejoin="round" stroke="black" stroke-width="10" d="M 100 57 V 40 M 100 22 V 0 H 0 V 100 H 100 V 76"/>
+	</g>
 
-<!-- F -->
-<g transform="translate(280 130)">
-  <path fill="#6298e2" d="M 0 0 h 100 v 22 h -58 v 18 h 58 v 17h -58 v 43 h -42 Z"/>
+	<!-- F -->
+	<g transform="translate(280 130)">
+	  <path fill="#6298e2" d="M 0 0 h 100 v 22 h -58 v 18 h 58 v 17h -58 v 43 h -42 Z"/>
 
-  <path fill="none" stroke-linecap="butt" stroke-linejoin="round" stroke="black" stroke-width="10" d="M 100 57 V 40 M 100 22 V 0 H 0 V 100 H 42"/>
-</g>
+	  <path fill="none" stroke-linecap="butt" stroke-linejoin="round" stroke="black" stroke-width="10" d="M 100 57 V 40 M 100 22 V 0 H 0 V 100 H 42"/>
+	</g>
 
  </g>
 </svg>
