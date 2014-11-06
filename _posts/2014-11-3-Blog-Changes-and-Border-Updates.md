@@ -19,7 +19,7 @@ I realized that what I essentially wanted was a custom border to the "main" sect
 
 Here is the actual border that you see around this text right now.
 
-![the actual border you're looking at now](../images/utz-border-image.svg)
+![the actual border you're looking at now]({{ site.url }}//images/utz-border-image.svg)
 
 It's an SVG which the browser is slicing up into a 3x3 grid. The CSS looks like this:
 
@@ -40,7 +40,7 @@ It gives the browser the image and says slice it thiswise:
 
 For a final project that would look thusly:
 
-![sliced and zoomed](../images/utz-border-image-sliced.svg)
+![sliced and zoomed]({{ site.url }}//images/utz-border-image-sliced.svg)
 
 We now have our 3x3 grid. Let's use directions to refer to the gridded off chunks; we've got a N S E and W chunks, as well as NW, NE, SE and SW chunks. Lastly, the very center of this grid is the thing to be bordered (once again, the text you're reading now).
 
