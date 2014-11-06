@@ -5,7 +5,7 @@ title: Blog Changes and Border Image (and Utz chips)
 
 I've got a new URL, at least temporarily. Free hosting on Github is neat, and easy to set-up thanks to [jekyll-now](https://github.com/barryclark/jekyll-now). By default, it gives you a very basic look to your blog. But, of course, I wanted to keep my Utz-inspired theme which I'd built in Wordpress.
 
-![Utz's brilliant style](../images/utz.jpg)
+![Utz's brilliant style]({{ site.url }}/images/utz.jpg)
 
 Warning: It's going to get a bit nerdy from here.
 
