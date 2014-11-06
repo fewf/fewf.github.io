@@ -44,6 +44,6 @@ For a final project that would look thusly:
 
 We now have our 3x3 grid. Let's use directions to refer to the gridded off chunks; we've got a N S E and W chunks, as well as NW, NE, SE and SW chunks. Lastly, the very center of this grid is the thing to be bordered (once again, the text you're reading now).
 
-Now, with this information, the browser knows to stretch what it finds in the E and W chunks as the bordered content grows in height, and likewise to use what's in N and S to stretch for the width. (If `border-image-repeat` is set to `repeat`, it will repeat instead of stretch. For this usage, the effect is identical.) The imagery inside the NW, NE, SE and SW chunks will sit unaffected by the length or width of the content at the corners of the borders. What does effect those corners is the `border-width`, which tells the browser to stretch it so that the width is 4em and height is 7em.
+Now, with this information, the browser knows to stretch what it finds in the E and W chunks as the bordered content grows in height, and likewise to use what's in N and S to stretch for the width. (If `border-image-repeat` is set to `repeat`, it will repeat instead of stretch. For this usage, the effect is identical.) The imagery inside the NW, NE, SE and SW chunks will sit unaffected by the length or width of the content at the corners of the borders. What does affect those corners is the `border-width`, which tells the browser to stretch it so that the width is 4em and height is 7em.
 
 Hope this makes sense--and keep snacking!
