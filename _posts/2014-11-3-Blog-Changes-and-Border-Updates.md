@@ -25,9 +25,9 @@ It's an SVG which the browser is slicing up into a 3x3 grid. The CSS looks like 
 
 ```
 #main {
-	border-image-source: url(http://fewf.github.io/images/utz-border-image.svg);
-	border-image-slice: 32 64 39;
-	border-image-repeat: stretch;
+    border-image-source: url(.../utz-border-image.svg);
+    border-image-slice: 32 64 39;
+    border-image-repeat: stretch;
     border-width: 4em 7em;	
 }
 ```
