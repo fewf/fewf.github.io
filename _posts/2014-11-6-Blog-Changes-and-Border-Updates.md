@@ -13,9 +13,9 @@ The old way that I achieved this effect was by a real ugly hack. It relied on a 
 
 Now, this is bad for many reasons, but perhaps most because it violates the intended purpose of HTML: to provide a semantic structure to content. Kind of like declaring "This is the header, this is the main portion, this is a blog post within the main portion, this is the footer, etc". HTML's friend CSS comes in to provide the style to all those elements.
 
-The Jekyll-now default html is a perfect example of this, encapsulating the simple structure of a blog. So, I decided my goal was to achieve my Utz styling without altering the hypertext, just the CSS. Et voila, that's what we have here.
+The Jekyll-now default HTML is a perfect example of this, encapsulating the simple structure of a blog. So, I decided my goal was to achieve my Utz styling without altering the hypertext, just the CSS. Et voila, that's what we have here.
 
-I realized that what I essentially wanted was a custom border to the "main" section of the page (i.e., the one holding the text you're reading now). Enough queries Google eventually led me to find [the border-image property](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image). It's a tremendously powerful alternative to the typical border css you might know and love. I'll try my best to explain.
+I realized that what I essentially wanted was a custom border to the "main" section of the page (i.e., the one holding the text you're reading now). Enough queries Google eventually led me to find [the border-image property](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image). It's a tremendously powerful alternative to the typical border CSS you might know and love. I'll try my best to explain.
 
 Here is the actual source image of the border that you see around this text right now.
 
@@ -38,7 +38,7 @@ It gives the browser the image and says slice it thiswise:
 * One horizontal slice 39 pixels from the bottom.
 * Two vertical slices, one 64 pixels in from the right, the other 64 pixels in from the left.
 
-For a final project that would look thusly:
+For a final product that would look thusly:
 
 ![sliced and zoomed]({{ site.url }}/images/utz-border-image-sliced.svg)
 
